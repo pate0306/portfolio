@@ -1,0 +1,16 @@
+.image {
+    margin-top: 1rem;
+    border-radius: 50%;
+    width: 290px;
+}
+
+.info {
+    margin: 1rem 13rem 0 13rem;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.name-title {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
