@@ -21,7 +21,7 @@ const card = () => {
                 music and many more.
             </p><br/>
             <p className="text-primary">
-                This website is currently being built by me using ReactJS. I have committed myself to add various new
+                This ReactJS base website is currently in developing stage. I have committed myself to add various new
                 features to it.
             </p>
         </div>
